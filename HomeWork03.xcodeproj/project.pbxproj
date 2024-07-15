@@ -13,6 +13,7 @@
 		2F5508662C3591620066D47F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2F5508652C3591620066D47F /* Base */; };
 		2F5508682C3591650066D47F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F5508672C3591650066D47F /* Assets.xcassets */; };
 		2F55086B2C3591650066D47F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 2F55086A2C3591650066D47F /* Base */; };
+		2F5508722C3596770066D47F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F5508692C3591650066D47F /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -126,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F5508682C3591650066D47F /* Assets.xcassets in Resources */,
+				2F5508722C3596770066D47F /* LaunchScreen.storyboard in Resources */,
 				2F55086B2C3591650066D47F /* Base in Resources */,
 				2F5508662C3591620066D47F /* Base in Resources */,
 			);
